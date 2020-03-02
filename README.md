@@ -1,8 +1,8 @@
 # macos
 
-VSCode
-Atom
-Sublime Text
+- VSCode
+- Atom
+- Sublime Text
 Chrome
 Firefox
 Opera
