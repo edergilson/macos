@@ -7,6 +7,7 @@
 - Firefox
 - Opera
 - Vivaldi
+- Brave
 - Filezilla
 - MySQL Workbench
 - DBeaver
@@ -24,3 +25,4 @@
 - Discord
 - Logitech mouse options
 - TL-WN725N
+- Kaleidoscope
