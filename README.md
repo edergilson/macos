@@ -1,28 +1,30 @@
 # macos
 
-- VSCode
-- Atom
-- Sublime Text
-- Chrome
-- Firefox
-- Opera
-- Vivaldi
-- Brave
-- Filezilla
-- MySQL Workbench
-- DBeaver
-- Spotify
-- Docker
-- Kytematic
-- Rambox
-- Git Kraken
-- Smartgit
-- Iterm2
-- Oh my zsh
-- Powerlevel10k
-- Homebrew
-- Qsp
-- Discord
-- Logitech mouse options
-- TL-WN725N
-- Kaleidoscope
+- VSCode: https://code.visualstudio.com
+- Atom: https://atom.io
+- Sublime Text: https://www.sublimetext.com/3
+- Chrome: https://www.google.com/chrome/
+- Firefox: https://www.mozilla.org/en-US/firefox/new/
+- Opera: https://www.opera.com
+- Opera GX: https://www.opera.com/gx
+- Vivaldi: https://vivaldi.com
+- Brave: https://brave.com
+- Filezilla: https://filezilla-project.org/download.php?show_all=1
+- MySQL Workbench: https://dev.mysql.com/downloads/workbench/
+- DBeaver: https://dbeaver.io/download/
+- Spotify: https://www.spotify.com/br/download/mac/
+- Docker: https://hub.docker.com/editions/community/docker-ce-desktop-mac
+- Kytematic: https://github.com/docker/kitematic/releases
+- Rambox: https://rambox.pro/#ce
+- Git Kraken: https://www.gitkraken.com
+- Smartgit: https://www.syntevo.com/smartgit/download/
+- Iterm2: https://www.iterm2.com
+- Oh my zsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+- Powerlevel10k: git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k && ZSH_THEME="powerlevel10k/powerlevel10k"
+- Homebrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+- Qsp: http://www.ifwiki.org/index.php/QSP#QSP_Player_for_MacOS
+- Discord: https://discordapp.com
+- Logitech mouse options: https://www.logitech.com/en-roeu/product/options
+- TL-WN725N: https://www.tp-link.com/br/support/download/tl-wn725n/#Driver
+- Kaleidoscope: nmac.to
+- Keka: https://www.keka.io/en/
