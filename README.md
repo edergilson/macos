@@ -28,3 +28,4 @@
 - TL-WN725N: https://www.tp-link.com/br/support/download/tl-wn725n/#Driver
 - Kaleidoscope: nmac.to
 - Keka: https://www.keka.io/en/
+- Insomnia REST Client: https://insomnia.rest/download/#mac
